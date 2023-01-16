@@ -32,7 +32,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janani1727&show_icons=true&locale=en&theme=nightowl" alt="janani1727" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janani1727&show_icons=true&locale=en&theme=dracula" alt="janani1727" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janani1727&theme=dracula"  alt="janani1727" /></p>
 
