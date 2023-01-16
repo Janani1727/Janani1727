@@ -34,6 +34,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janani1727&show_icons=true&locale=en&theme=nightowl" alt="janani1727" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janani1727&theme=nightowl"  alt="janani1727" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janani1727&theme=dracula"  alt="janani1727" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janani1727" alt="janani1727" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janani1727&theme=dracula" alt="janani1727" /></a> </p>
