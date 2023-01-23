@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalini1908&label=Profile%20views&color=0e75b6&style=flat" alt="shalini1908" /> </p>
 
 
-<img src= "https://camo.githubusercontent.com/26647de33fe1227a701256ff1917a9d5ea2146c4aed4e8e8f011eee17fb14f78/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66642f61372f63302f66646137633031386462396130396666306564323334393537653962323562392e676966" width ="40%" height="260px" align ="right"/>
+<img src= "https://i.pinimg.com/originals/16/f5/20/16f5204718e98858b1d4466e911e90ed.gif" width ="50%" height="300px" align ="right"/>
 
 
 
@@ -16,8 +16,8 @@
 
 - check my works here *https://janani1727.github.io/*
 
-
-<h3 align="left">Connect with me:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width ="20%" height="80px" align ="right"></h3>
+<!-- 
+<h3 align="left">Connect with me:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width ="20%" height="80px" align ="right"></h3> -->
 
 
 <p align="left">
@@ -115,7 +115,7 @@
 <!-- 
 - <p><img align="left" marginTop="100px" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalini1908&show_icons=true&locale=en&layout=compact" alt="shalini1908" /></p>  -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Janani1727&show_icons=true&locale=en&theme=dracula" alt="shalini1908" /></p>
+<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=Janani1727&show_icons=true&locale=en&theme=dracula" alt="shalini1908" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janani1727&theme=dracula" alt="Janani1727theme=dracula" /></p>
 
