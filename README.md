@@ -27,7 +27,8 @@
 <img src='https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif' width ="100%" />
 
 <h3 align="left">Languages and Tools:</h3>
-<table align="left">
+
+<table align="center">
   <tr>
       <td align="center" width="96">
       <a href="#html5">
@@ -52,7 +53,9 @@
         <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/full/nodejslogo.png" width="48" height="48" alt="javascript" />
       </a>
       <br>Node JS
-    </td> 
+    </td>
+     </tr>
+ <tr>
     <td align="center" width="96">
       <a href="#vuejs">
         <img src="https://www.happylifecreators.com/wp/wp-content/uploads/2022/06/chakra-ui_title2-770x528.png" width="48" height="48" alt="Vuejs" />
@@ -72,13 +75,18 @@
       </a>
       <br>CSS3
     </td>
-      </tr>
-      <td align="center" width="96">
-      <a href="#laravel">
+<!--     
+     <td align="center" width="96">
+      <a href="#JS">
         <img src="https://img.icons8.com/color/344/javascript--v1.png" width="48" height="48" alt="Laravel" />
       </a>
       <br>JavaScript
-    </td>
+    </td> 
+   -->
+    
+  
+ 
+ <tr>
       <td align="center" width="96">
       <a href="#laravel">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ063W_CSBR_K6WYYXCm41PfA0didua-Q5Zgyh1uy4yoOjSKjPoX4whxEGWRAXrQQfWub0&usqp=CAU" width="48" height="48" alt="Laravel" />
@@ -103,15 +111,17 @@
       </a>
       <br>VS Code
     </td>
+<!--   <tr>
       <td align="center" width="96">
       <a href="#ExpressJS" >
         <img src="https://img.icons8.com/color/344/javascript--v1.png" width="48" height="48" alt="Git" />
       </a>
       <br>ExpressJS
     </td>
+   </tr>
     
     
-  </tr>
+  </tr> -->
  
 </table>
 
@@ -119,17 +129,17 @@
 
 <p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=Janani1727&show_icons=true&locale=en&theme=dracula" alt="shalini1908"
        width ="100%"   
-        height="300px"
+       height="250px"
               /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janani1727&theme=dracula" alt="Janani1727theme=dracula" 
           width ="100%"   
-        height="300px"
+        height="235px"
         /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Janani1727&theme=dracula" alt="Janani"
    width ="100%"   
-        height="300px"
+         height="250px"
                                                                                 /></a> </p>
 
 <p width="50%" align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
