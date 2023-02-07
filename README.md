@@ -154,5 +154,11 @@
                                                                                             /></a>
 </p>
 
+<img src='https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif' width ="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Janani1727&theme=monokai"
+       width ="100%"   
+        height="235px"
+     />
 
 <img src="https://raw.githubusercontent.com/godkingjay/godkingjay/794176ef118d7303359f8151b8ab718bccafc436/assets/animated-wave.svg"/>
