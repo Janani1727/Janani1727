@@ -1,28 +1,30 @@
+
+<img src= "https://i.pinimg.com/originals/16/f5/20/16f5204718e98858b1d4466e911e90ed.gif" width="80%" height="400px"  align ="center"   />
+
+<img src='https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif' width ="100%" />
+
 <h1 align="center">Hi 👋, I'm  Janani Jayaraman</h1>
 <h3 align="center">Full Stack Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalini1908&label=Profile%20views&color=0e75b6&style=flat" alt="shalini1908" /> </p>
 
-
-<img src= "https://i.pinimg.com/originals/16/f5/20/16f5204718e98858b1d4466e911e90ed.gif" width ="50%" height="300px" align ="right"/>
-
-
-
 - 🌱 I’m currently learning *MERN*
 
-- 💬 Ask me about *ReactJS, JavaScript , CSS and HTML*
+- 💬 Ask me about *ReactJS, JavaScript , Next Js , HTML ,CSS*
 
 - 📫 How to reach me *jayaramanjanani73@gmail.com*
 
 - check my works here *https://janani1727.github.io/*
+ 
+<!-- - Contact me <p align="left">
+<a href="https://www.linkedin.com/in/janani-jayaraman-412758238/" target="blank">LinkedIn<a/>
+</p> -->
+ 
+  - contact me *https://www.linkedin.com/in/janani-jayaraman-412758238/* 
+  
+  ✔️ My details and work experience are available at My Resume
 
-<!-- 
-<h3 align="left">Connect with me:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width ="20%" height="80px" align ="right"></h3> -->
-
-
-<p align="left">
-<a href="https://www.linkedin.com/in/janani-jayaraman-412758238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/janani-jayaraman-412758238/" height="30" width="40" /></a>
-</p>
+<img src='https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif' width ="100%" />
 
 <h3 align="left">Languages and Tools:</h3>
 <table align="left">
@@ -112,16 +114,27 @@
   </tr>
  
 </table>
-<!-- 
-- <p><img align="left" marginTop="100px" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalini1908&show_icons=true&locale=en&layout=compact" alt="shalini1908" /></p>  -->
 
-<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=Janani1727&show_icons=true&locale=en&theme=dracula" alt="shalini1908" /></p>
+<img src='https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif' width ="100%" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janani1727&theme=dracula" alt="Janani1727theme=dracula" /></p>
+<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=Janani1727&show_icons=true&locale=en&theme=dracula" alt="shalini1908"
+       width ="100%"   
+        height="300px"
+              /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Janani1727&theme=dracula" alt="Janani" /></a> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janani1727&theme=dracula" alt="Janani1727theme=dracula" 
+          width ="100%"   
+        height="300px"
+        /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Janani1727&theme=dracula" alt="Janani"
+   width ="100%"   
+        height="300px"
+                                                                                /></a> </p>
 
 <p width="50%" align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=Janani1727&theme=monokai" alt="janani1727" /></a>
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=Janani1727&theme=monokai" alt="janani1727"     width ="100%"   
+        height="300px"
+                                                                                            /></a>
 </p>
 
