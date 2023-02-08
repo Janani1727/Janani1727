@@ -6,21 +6,17 @@
 <h1 align="center">Hi 👋, I'm  Janani Jayaraman</h1>
 <h3 align="center">Full Stack Web developer from India</h3>
 
-- 🌱 I’m currently learning *MERN*
+  - 🌱 I’m currently learning *MERN*
 
-- 💬 Ask me about *ReactJS, JavaScript , Next Js , HTML ,CSS*
+  - 💬 Ask me about *ReactJS, JavaScript , Next Js , HTML ,CSS*
 
-- 📫 How to reach me *jayaramanjanani73@gmail.com*
+  - 📫 How to reach me *jayaramanjanani73@gmail.com*
 
-- check my works here *https://janani1727.github.io/*
+  - 🌱 check my works at <a href='https://www.linkedin.com/in/janani-jayaraman-412758238/'>My Portfolio</a>                                                        
  
-<!-- - Contact me <p align="left">
-<a href="https://www.linkedin.com/in/janani-jayaraman-412758238/" target="blank">LinkedIn<a/>
-</p> -->
- 
-  - contact me *https://www.linkedin.com/in/janani-jayaraman-412758238/* 
+  - 💬 contact me  <a href='https://www.linkedin.com/in/janani-jayaraman-412758238/'>LinkedIn</a>                                       
   
-  ✔️ My details and work experience are available at My Resume
+  - 📫 About Me  <a href='https://drive.google.com/file/d/1DClxcKyEqmZsixEH5RkUihIg6d0AKaLN/view?usp=share_link'>My Resume</a>
 
 <img src='https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif' width ="100%" />
 
