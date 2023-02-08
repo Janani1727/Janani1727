@@ -6,8 +6,6 @@
 <h1 align="center">Hi 👋, I'm  Janani Jayaraman</h1>
 <h3 align="center">Full Stack Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shalini1908&label=Profile%20views&color=0e75b6&style=flat" alt="shalini1908" /> </p>
-
 - 🌱 I’m currently learning *MERN*
 
 - 💬 Ask me about *ReactJS, JavaScript , Next Js , HTML ,CSS*
