@@ -12,7 +12,7 @@
 
   - 📫 How to reach me *jayaramanjanani73@gmail.com*
 
-  - 🌱 check my works at <a href='https://www.linkedin.com/in/janani-jayaraman-412758238/'>My Portfolio</a>                                                        
+  - 🌱 check my works at <a href='https://janani1727.github.io/'>My Portfolio</a>                                                        
  
   - 💬 contact me  <a href='https://www.linkedin.com/in/janani-jayaraman-412758238/'>LinkedIn</a>                                       
   
