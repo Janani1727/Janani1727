@@ -17,6 +17,7 @@
   - 💬 contact me  <a href='https://www.linkedin.com/in/janani-jayaraman-412758238/'>LinkedIn</a>                                       
   
   - 📫 About Me  <a href='https://drive.google.com/file/d/1DClxcKyEqmZsixEH5RkUihIg6d0AKaLN/view?usp=share_link'>My Resume</a>
+  - 
 
 <img src='https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif' width ="100%" />
 
