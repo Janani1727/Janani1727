@@ -145,20 +145,20 @@
  
  <img src='https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif' width ="100%" />
 
-<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=Janani1727&show_icons=true&locale=en&theme=dracula" alt=""
+<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=Janani1727&show_icons=true&locale=en&theme=algolia" alt=""
        width ="100%"   
        height="250px"
               /></p>
               <img src='https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif' width ="100%" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janani1727&theme=dracula" alt="Janani1727theme=dracula" 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janani1727&theme=algolia" alt="Janani1727theme=algolia" 
           width ="100%"   
         height="235px"
         /></p>
 
 <img src='https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif' width ="100%" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Janani1727&theme=dracula" alt="Janani"
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Janani1727&theme=algolia" alt="Janani"
    width ="100%"   
          height="250px" 
  /></a> </p>
@@ -171,7 +171,7 @@
 
 <img src='https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif' width ="100%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Janani1727&theme=monokai"
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Janani1727&theme=algolia"
        width ="100%"   
         height="235px" 
      />
